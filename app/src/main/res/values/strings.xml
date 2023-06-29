@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadiusAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cannot_select_more_with_previous_combination_string">Cannot Select More With Previous Inputs. Please Try Different combination.</string>
+    <string name="internet_issue_string">Slow Or No Internet Connection.</string>
+    <string name="cannot_reach_server_string">Having Issues!!</string>
+    <string name="select_facility_type_string">Select %s</string>
+    <string name="select_facility_type_def_string">Select Facility Type</string>
+</resources>
